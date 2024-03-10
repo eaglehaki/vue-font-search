@@ -7,6 +7,6 @@
   "main": "src/components/font-awesome-search.vue",
   "repository": {
     "type": "git",
-    "url": "git@github.com:eaglehaki/vue-font-search.git"
+    "url": "https://github.com/eaglehaki/vue-font-search.git"
   }
 }
